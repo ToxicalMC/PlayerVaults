@@ -9,3 +9,4 @@ commands:
 permissions:
   playervaults.vault.1:
     default: true
+      description: Store Your Items Here
